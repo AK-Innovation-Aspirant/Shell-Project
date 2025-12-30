@@ -4,7 +4,7 @@
 
 This project implements a small **Unix-like interactive shell**: it reads a user’s command line input, parses it into a structured form (commands, arguments, operators), and then executes programs using standard Unix process and file-descriptor mechanisms. The shell behaves like a lightweight subset of common shells (e.g., `bash`) with support for pipelines, redirection, background jobs, and typical interactive usability features.
 
-## Course / policy note (no code)
+## Course / policy note
 
 Completed for **Purdue CS252 (Spring 2025)**. Source code is **not publicly available** in order to respect course and academic integrity policies.
 
